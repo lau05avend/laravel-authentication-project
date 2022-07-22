@@ -12,7 +12,7 @@ Por favor consulta la guía de instalación oficial de laravel para conocer los 
 
 ## Paso 2 - Cambiar a la carpeta del repositorio
 
-    cd laravel-realworld-example-app
+    cd laravel-authentication-project
 
 ## Paso 3 - Instalar todas las dependencias usando composer
 
