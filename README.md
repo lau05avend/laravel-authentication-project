@@ -22,7 +22,7 @@ Por favor consulta la guía de instalación oficial de laravel para conocer los 
 
     cp .env.example .env
 
-## Abrir el archivo `.env` y realizar los cambios de configuración necesarios.
+Abrir el archivo `.env` y realizar los cambios de configuración necesarios.
 
 ## Paso 5 - Generar una nueva clave de aplicación
 
